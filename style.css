@@ -98,9 +98,9 @@
     height: 3rem;
   }
   
-  main button {
+  main a button {
     cursor: pointer;
-    padding: 1rem 0;
+    padding: 1.2rem 5rem;
     width: 100%;
     background: #382AE1;
     box-shadow: 0px 20px 20px rgba(56, 42, 225, 0.190291);
